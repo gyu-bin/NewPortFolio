@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gyu-bin/NewPortFolio/static/css/main.e6c13ad2.css",
+    "main.js": "/gyu-bin/NewPortFolio/static/js/main.19aedb7a.js",
+    "static/js/453.04ec5b8f.chunk.js": "/gyu-bin/NewPortFolio/static/js/453.04ec5b8f.chunk.js",
+    "index.html": "/gyu-bin/NewPortFolio/index.html",
+    "main.e6c13ad2.css.map": "/gyu-bin/NewPortFolio/static/css/main.e6c13ad2.css.map",
+    "main.19aedb7a.js.map": "/gyu-bin/NewPortFolio/static/js/main.19aedb7a.js.map",
+    "453.04ec5b8f.chunk.js.map": "/gyu-bin/NewPortFolio/static/js/453.04ec5b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19aedb7a.js"
+  ]
+}
