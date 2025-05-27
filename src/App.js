@@ -163,7 +163,7 @@ const Nav = styled.nav`
     z-index: 100;
 `;
 
-export default function Portfolio() {
+export default function App() {
     const [darkMode, setDarkMode] = useState(false);
     const [pageIndex, setPageIndex] = useState(0);
     const isAnimating = useRef(false);
