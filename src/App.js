@@ -240,37 +240,49 @@ export default function App() {
         {
             id: 'skills',
             title: 'Skills',
-            content: `React – 모듈화 구조 및 컴포넌트 단위 UI 설계
-TypeScript – 안정적 설계를 위한 타입 시스템 경험
-React Native – Expo 기반 앱 개발 + Firebase 연동
-Python – Pandas, Scikit-learn, TensorFlow 기반 데이터 분석
-XGBoost – 분류 모델 실전 프로젝트 사용
-Firebase – Firestore, Auth, Cloud Function 구성 실전 경험
+            content: `React – 컴포넌트 기반 UI 설계, 상태 관리, 성능 최적화
+TypeScript – 타입 안정성을 통한 안정적인 코드 작성
+React Native – Expo 기반 모바일 앱 개발 및 배포
+Next.js / SPA – 마이그레이션 및 라우팅 구조 설계
+상태 관리 – Context API, Custom Hooks 활용
+UI 라이브러리 – xyflow (워크플로우), realGrid (대용량 데이터)
+Firebase – Firestore, Auth, Cloud Functions 실전 경험
 협업툴 – Git, Notion, Slack, Figma`
         },
         {
             id: 'experience',
             title: 'Experience',
-            content: `◼ GS SHOP (2024.01 ~ 2024.10)
-- MiPlatform → React SPA 마이그레이션
-- 공통 컴포넌트 리팩터링 및 화면 전환 최적화
+            content: `◼ 디딤365 (2025.07 ~ 2026.02)
+- 신한은행 생성형 AI 플랫폼 에이전트 빌더 페이지 프론트엔드 개발
+- React + TypeScript 기반 드래그 앤 드롭 UI 구현 (xyflow 활용)
+- 복잡한 워크플로우 편집기 개발 및 상태 관리 최적화
 
-◼ 그라비티 네오싸이언 (2022.02 ~ 2023.10)
-- LG TingQ 앱 유지보수 및 고도화 개발
-- React Native + Firebase 기반 구조 개선
+◼ GSSHOP (2024.01 ~ 2024.10)
+- MiPlatform 레거시 코드를 React SPA로 마이그레이션
+- 공통 컴포넌트 설계 및 재사용 가능한 구조로 리팩터링
+- realGrid를 활용한 대용량 데이터 그리드 최적화
+- React 기반 화면 전환 및 라우팅 구조 개선
 
-◼ 그라비티 네오싸이언 (2021.10 ~ 2022.02)
-- LG 스마트 식품관 관리자 페이지(Spring 기반)
-- UI 개발 및 데이터 연동 API 설계
+◼ 그라비티네오싸이언 (2022.02 ~ 2023.10)
+- LG ThinQ 앱 개발 및 유지보수
+- React + TypeScript 기반 프로젝트 구조 설계 및 컴포넌트 개발
+- 제품 사용방법 및 사용후기 페이지 개발
+- 성능 최적화 및 사용자 경험 개선
+
+◼ 그라비티네오싸이언 (2021.10 ~ 2022.02)
+- LG 스마트 식품관 관리자 페이지 개발
+- JavaScript, Spring, JSP 기반 프론트엔드 개발
+- 관리자 페이지 UI 개발 및 백엔드 API 연동
 
 ◼ 에딧홈 (2021.01 ~ 2021.05)
-- 쇼핑몰 관리자 페이지 개발 및 유지보수 (React)
+- 쇼핑몰 홈페이지 React 기반 개발
+- 컴포넌트 기반 UI 구조 설계 및 구현
 
 ◼ 코아스시스템 (2020.07 ~ 2020.10)
-- 관리자 페이지 유지보수 (Java, JSP)
+- 관리자 페이지 유지보수 (주)에이치스틸
 
-◼ 미스솔루션 (2019.07 ~ 2020.06)
-- 관리자 시스템 개발 및 유지보수 (Java, JSP)`
+◼ 미스솔루션 (2019.09 ~ 2020.06)
+- 시스템 개발 및 유지보수 (주)한국특강`
         },
         {
             id: 'projects',
